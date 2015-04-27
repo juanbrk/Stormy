@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stormy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_title">Oops! Sorry!</string>
+    <string name="error_message">There was an error. Please try again.</string>
+    <string name="error_ok_button_text">OK</string>
+    <string name="network_unavailable_message">Network is unavailable!</string>
+    <string name="hourly_boton"> HOURLY </string>
+    <string name="daily_button">7 DAYS</string>
+    <string name="title_activity_daily_forecast">Daily Forecast</string>
+    <string name="no_daily_forecast_data_empty_list">NO DAILY FORECAST TO SHOW</string>
+    <string name="clima_de_la_semana_titulo">Clima para la semana</string>
+    <string name="title_activity_pronostico_por_horas">Pronostico Por Horas</string>
+
+</resources>
